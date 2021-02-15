@@ -1,0 +1,23 @@
+{
+  "name": "digitalizer",
+  "version": "1.0.0",
+  "description": "This is package will be uses for convert images with OCR to web-accesibility formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JAMER-Digitalizer"
+  },
+  "keywords": [
+    "TypeScript",
+    "OCR",
+    "Accesibility"
+  ],
+  "author": "JAMER",
+  "license": "MIT",
+  "dependencies": {
+    "node-tesseract-ocr": "^2.0.0"
+  }
+}
