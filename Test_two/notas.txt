@@ -18,4 +18,30 @@ ReferenceError: require is not defined
 Y la respeusta a mis problemas parece se resto...
 https://stackoverflow.com/questions/19059580/client-on-node-js-uncaught-referenceerror-require-is-not-defined
 
+
 Peor no lo entiendo todavía.
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+
+Buenas noches masters: 
+
+Soy nuevo en Node/Express y toda la magia detrás,  ando necesitando que una cosa del back se renderice en front
+
+Estoy teniendo este error:
+
+```javascript
+const express = require("express");
+                ^
+
+ReferenceError: require is not defined
+```
+
+He leído de aquí:
+
+
+
+Entiendo que el código no se meustra así como así, instalé Require.js, y también ejs que en teoría me permite mostrar código js en navegador y aún arroja error.
+1. Quisiera saber si estoy entendiendo bien lo que hace cada cosa
+
+
+Alguna sugerencia masters?
