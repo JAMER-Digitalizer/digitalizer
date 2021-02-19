@@ -1,0 +1,21 @@
+
+
+
+Nodemon me rebota con esto:
+
+file:///C:/Logos/Root/Personal_proyects/Digitalizer/Test_two/app.js:2
+const express = require("express");
+                ^
+
+ReferenceError: require is not defined
+    at file:///C:/Logos/Root/Personal_proyects/Digitalizer/Test_two/app.js:2:17
+    at ModuleJob.run (internal/modules/esm/module_job.js:152:23)
+    at async Loader.import (internal/modules/esm/loader.js:166:24)
+    at async Object.loadESM (internal/process/esm_loader.js:68:5)
+[nodemon] app crashed - waiting for file changes before starting...
+
+
+Y la respeusta a mis problemas parece se resto...
+https://stackoverflow.com/questions/19059580/client-on-node-js-uncaught-referenceerror-require-is-not-defined
+
+Peor no lo entiendo todavía.
